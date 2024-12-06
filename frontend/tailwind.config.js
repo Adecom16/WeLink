@@ -40,5 +40,6 @@ export default {
       "sunset",
     ],
   },
+  // eslint-disable-next-line no-undef
   plugins: [require("daisyui")],
 };
